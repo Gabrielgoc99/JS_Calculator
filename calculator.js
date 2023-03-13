@@ -21,7 +21,7 @@ function calcular()
     }
     else
     {
-        document.getElementById('resultado').innerHTML = "Null..."
+        document.getElementById('resultado').innerHTML = "Null!!!"
     }
     
 }
